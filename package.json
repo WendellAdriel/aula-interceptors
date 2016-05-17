@@ -1,0 +1,26 @@
+{
+  "name": "aula-interceptors",
+  "version": "0.0.1",
+  "description": "Mini projeto para aula de interceptors",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "angular",
+    "front-end",
+    "gulp",
+    "interceptors"
+  ],
+  "author": "Wendell Adriel <wendelladriel.ti@gmail.com> (http://wendelladriel.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-aria": "^1.5.0",
+    "angular-ui-router": "^0.2.18"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
